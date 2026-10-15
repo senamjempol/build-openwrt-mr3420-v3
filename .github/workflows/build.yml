@@ -304,6 +304,7 @@ jobs:
           CONFIG_PACKAGE_usb-modeswitch-data=y
           CONFIG_PACKAGE_luci-proto-3g=y
           CONFIG_PACKAGE_luci-proto-ppp=y
+          
           CONFIG_PACKAGE_wpad-basic=y
 
           # Indonesian LuCI.
